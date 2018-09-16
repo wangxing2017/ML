@@ -20,6 +20,8 @@ def clipAlpha(aj,H,L):
         aj = L
     return ajmn
 
+def fun():
+    pass
 
 
 
